@@ -30,7 +30,7 @@ func NewSystemsEngineer() SystemsEngineer {
 			"AWS":   []string{"EC2", "S3", "Lambda", "CloudWatch"},
 			"Azure": []string{"VMs", "Blob Storage", "Functions"},
 		},
-		CurrentFocus: "Curently working on my capstone project on cloud-native applications.",
+		CurrentFocus: "Curently working on upskilling with CI/CD and GitOps tools like Jenkins, FluxCD, and ArgoCD.",
 		FunFact:      "I'm 15% more productive when I have a cup of coffee while working!",
 	}
 }
